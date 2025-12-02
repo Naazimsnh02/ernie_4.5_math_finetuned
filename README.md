@@ -155,7 +155,6 @@ Therefore: \boxed{x = -2, -3}
 ernie-45-math-finetuned/
 ├── ernie-45-fine-tuned-for-mathematical-reasoning.ipynb  # Main training notebook
 ├── README.md                                              # This file
-└── requirements.txt                                       # Python dependencies
 ```
 
 ## Training Progress
