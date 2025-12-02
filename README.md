@@ -218,15 +218,10 @@ This model excels at:
 - **Modal** ([modal.com](https://modal.com)) for GPU infrastructure
 - **ERNIE AI Developer Challenge** for the opportunity
 
-## License
-
-MIT License - See [LICENSE](LICENSE) file for details
-
 ## Contact
 
 For questions or feedback:
 - HuggingFace: [@naazimsnh02](https://huggingface.co/naazimsnh02)
-- Model Issues: [Open an issue](https://github.com/naazimsnh02/ernie-45-math-finetuned/issues)
 
 ---
 
